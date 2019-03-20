@@ -1,4 +1,4 @@
-# shadowsocks-go
+# shadowsocks-go (fork 别人的，原始url比较精彩)
 
 Current version: 1.2.2 [![Build Status](https://travis-ci.org/shadowsocks/shadowsocks-go.png?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-go)
 
